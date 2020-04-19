@@ -22,14 +22,9 @@ This code uses Python3. The python code file imports the following libraries:
 They can be installed by using the following commands:
 1. pip install numpy
 2. pip install pandas
-3. <math is included in the original Python installation as far as i know. couldn't find the code online>
 4. pip install PyWavelets
 5. pip install sklearn
 6. pip install scipy
-7. <os is included in the original Python installation>
-8. <sys is included in the original Python installation>
-9. <pickle is included in the original Python installation>
-10. <warnings is included in the original Python installation>
 
 
 Run the training code as "python train.py <Path-to-DataFolder>"
