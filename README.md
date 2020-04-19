@@ -9,10 +9,10 @@ How to compile code?
 This code uses Python3. The python code file imports the following libraries:
 1. numpy
 2. pandas
-3. math
-4. PyWavelets (pywt)
-5. sklearn
-6. scipy
+3. PyWavelets (pywt)
+4. sklearn
+5. scipy
+6. math
 7. os
 8. sys
 9. pickle
@@ -22,9 +22,9 @@ This code uses Python3. The python code file imports the following libraries:
 They can be installed by using the following commands:
 1. pip install numpy
 2. pip install pandas
-4. pip install PyWavelets
-5. pip install sklearn
-6. pip install scipy
+3. pip install PyWavelets
+4. pip install sklearn
+5. pip install scipy
 
 
 Run the training code as "python train.py <Path-to-DataFolder>"
